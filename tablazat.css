@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    padding: 0;
+}
+
+table{
+    width: 80%;
+    min-width: 450px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+#pont{
+    text-align: center;
+}
+
+td,th{
+    border: 1px solid gray;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(107, 137, 197);
+    padding: 10px;
+}
+
+.nevek{
+    text-align: center;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
